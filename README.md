@@ -10,3 +10,7 @@ __We will introduce the most important ones here ::point_down: <br />
 - Dictionaries<br />
 - Functions<br />
 - Class<br />
+- File Handling<br />
+- Numpy<br />
+- Pandas<br />
+- Matplotlib<br />
